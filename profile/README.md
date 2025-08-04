@@ -12,8 +12,8 @@
 </p>
 
 <div align="center">
-  <a href="[INSERIR LINK DO SEU SITE AQUI]"><strong>🌐 Visite nosso Site</strong></a> •
-  <a href="[INSERIR SEU LINK DE CONVITE DO DISCORD AQUI]"><strong>💬 Fale Conosco no Discord</strong></a>
+  <a href="https://kushmc.com.br"><strong>🌐 Visite nosso Site</strong></a> •
+  <a href="https://discord.gg/aZJYhNvm"><strong>💬 Fale Conosco no Discord</strong></a>
 </div>
 
 ---
@@ -32,7 +32,6 @@ Nossos planos foram desenhados para dar a você o controle total e as ferramenta
 - **🔄 Atualizador Automático:** Garanta que todos os seus jogadores tenham sempre os arquivos corretos, sem tutoriais complicados.
 - **📢 Sistema de Notícias Integrado:** Comunique-se diretamente com sua base de jogadores através do launcher.
 - **📊 Analytics de Jogadores:** Entenda o comportamento da sua comunidade com dados reais de uso e engajamento.
-- **🎮 Integração com Discord (RPC):** Aumente a visibilidade do seu servidor com um status de "Jogando" rico e detalhado no Discord.
 - **🎨 Design com a Sua Marca:** Aplicamos sua identidade visual, logo e cores para uma experiência imersiva e profissional.
 
 ---
@@ -50,7 +49,7 @@ Nosso modelo é baseado em uma parceria. Não vendemos apenas um produto, oferec
 Tem dúvidas, quer um orçamento para um projeto Enterprise ou apenas quer trocar uma ideia? Nosso principal canal de comunicação é o Discord.
 
 <p align="center">
-  <a href="[INSERIR SEU LINK DE CONVITE DO DISCORD AQUI]" style="text-decoration: none; font-weight: bold; color: #5865F2;">Junte-se à nossa comunidade no Discord</a>
+  <a href="https://discord.gg/aZJYhNvm" style="text-decoration: none; font-weight: bold; color: #5865F2;">💬 Junte-se à nossa comunidade no Discord</a>
 </p>
 
 <hr>
